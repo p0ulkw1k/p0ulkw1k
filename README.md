@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @p0ulkw1k
 - 👀 I’m interested in ...coding to transition into Junior web dev position within the next 3-5 years. 
-- 🌱 I’m currently learning ...fundamentals of JavaScript.
+- 🌱 I’m currently learning ...RWD.
 - 💞️ I’m looking to collaborate on ...idea sharing.
 - 📫 How to reach me ...poulkwik@yahoo.com
 
